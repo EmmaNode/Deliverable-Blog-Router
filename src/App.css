@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.FavoriteFood, .FavoriteMovie, .MainBlog {
+  text-align: left;
+}
